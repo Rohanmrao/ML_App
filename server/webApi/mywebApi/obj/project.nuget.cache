@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/jj3Gqbfy4ksDaBsTWx7jnDHd3Tzcn5UmhSk9aQxNgLtFAxY/JZnT3Q79AQuZoRW8YPX5piiCTIyM+HGVJf6VQ==",
+  "success": true,
+  "projectFilePath": "/home/rohan/ML_App/server/webApi/mywebApi/mywebApi.csproj",
+  "expectedPackageFiles": [
+    "/home/rohan/.nuget/packages/microsoft.aspnetcore.openapi/8.0.1/microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
+    "/home/rohan/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/rohan/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/rohan/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/home/rohan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/home/rohan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/home/rohan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
