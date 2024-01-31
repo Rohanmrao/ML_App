@@ -1,8 +1,8 @@
 ## **ML App**
 
-*Muthu, Rohan and Shreyas*
+*Muthu and Rohan*
 
 ### Tech Stack:
     `React FE`
-    `Scikit-learn python + Node.js BE`
+    `Scikit-learn python + .NET BE + Flask BE`
     `MongoDB Database`
